@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan Yeni
-- 👀 I’m interested in mobile development,web development and cyber security.
-- 🌱 I’m currently learning python flask and flutter.
+- 👀 I’m interested in mobile development, backend development and software testing.
+- 🌱 I’m currently learning java language and its frameworks (Appium,RestAssured,Selenium,SpringBoot etc.).
 - 📫 How to reach me yeniifurkan@gmail.com
 
 <!---
